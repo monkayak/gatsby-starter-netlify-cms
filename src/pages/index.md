@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Takt
-image: /img/home-jumbotron.jpg
+image: /img/sad.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,8 +11,7 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Bla bla.
+description: Bla bla.
 intro:
   blurbs:
     - image: /img/coffee.png
