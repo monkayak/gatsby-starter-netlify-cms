@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Takt
-image: /img/sad.png
+image: /img/red.jpg
 heading: Great coffee with a conscience
 subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
