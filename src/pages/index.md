@@ -22,7 +22,7 @@ description: >-
   institucí či politických stran. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/positive.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
