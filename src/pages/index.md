@@ -2,16 +2,21 @@
 templateKey: index-page
 title: Takt
 image: /img/red.jpg
-heading: Great coffee with a conscience
+heading: Taktně a opravdově o lidech
 subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Bla bla.
+  title: Proč zvolit TAKT?
+  description: |
+    - Komplexní psychodiagnostika a rozvoj lidí
+    - Statisticky průkazné porovnání s databází 23 tisíc lidí
+    - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti 
+description: >-
+  Chcete vědět, jací jsou Vaši lidé, jak s nimi pracovat a jací potom mohou
+  být?  Chcete porovnat potenciál Vašich lidí s trhem?  Chcete vědět koho
+  povýšit?  Chcete investovat do rozvoje lidí a to profitabilně?  Chcete vědět o
+  koho z týmu se můžete opravdu opřít v „těžkých časech“?  Chcete efektivně
+  sestavit funkční týmy?  Chcete sami vědět na co se hodíte Vy anebo Vaši
+  blízcí?
 intro:
   blurbs:
     - image: /img/coffee.png
