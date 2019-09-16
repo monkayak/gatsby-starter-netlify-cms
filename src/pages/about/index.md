@@ -1,19 +1,29 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: O nás
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Na trhu jsme již od r. 1990 a působíme po celé České republice. Kromě pražské pobočky v centru Vinohrad nás najdete také v podhúří Beskyd, Frenštátě pod Radhoštěm. Odbornou ředitelkou a předsedkyní představenstva Takt - poradenství a konzultace, a.s. je **PhDr. Sylva Švestková**, která má přes 40 let praxe v oboru psychologie a psychologického poradenství. Náš tým stálých psychologů je připraven nabídnout vysokou kvalitu služeb. Jsme unikátní v tom, že i v případě velké zakázky držíme kvalitu naší práce a nenajímáme si externisty.  Za 28 let jsme se naučili kombinovat vícero standardních psychologických metod takovým způsobem, že se jejich úspěšnost zvyšuje až na 95%. Umíme exaktně porovnat kvality konkrétního člověka s trhem a to se statistickou průkazností. Funkčnost naší metodiky je prověřena již na 30 000 lidech z České republiky, Slovenska, Polska a Maďarska.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+
+## **Komu již pomáháme?**
+
+
+
+### Broker Consulting, a.s.
+
+> Společnost TAKT byla naším partnerem při výběru kandidáta na obsazení významné pozice v naší společnosti. Systém práce, použité metody, kvalitní výstupy - to vše jsme od spolupráce očekávali a naše očekávání byla zcela naplněna.  Potvrzují to slova generálního ředitele. 
+>
+> _"Na spolupráci se společností TAKT oceňuji především férové jednání, odbornost a vysokou míru profesionality. Pro služby v oblasti recruitmentu je mohu bez výhrad doporučit”._
+
+
+
+
 
 ### Direct sourcing
+
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
 ### Reinvest profits
+
 We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
