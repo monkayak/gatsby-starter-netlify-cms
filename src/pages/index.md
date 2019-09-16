@@ -2,21 +2,24 @@
 templateKey: index-page
 title: Takt
 image: /img/red.jpg
-heading: Taktně a opravdově o lidech
+heading: TAKTně a opravdově o lidech
 subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
   title: Proč zvolit TAKT?
   description: |
-    - Komplexní psychodiagnostika a rozvoj lidí<br/>
-    - Statisticky průkazné porovnání s databází 23 tisíc lidí<br/>
-    - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti<br/> 
+    - Komplexní psychodiagnostika a rozvoj lidí
+    - Statisticky průkazné porovnání s databází 30 000 lidí
+    - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti 
 description: >-
-  Chcete vědět, jací jsou Vaši lidé, jak s nimi pracovat a jací potom mohou
-  být?  Chcete porovnat potenciál Vašich lidí s trhem?  Chcete vědět koho
-  povýšit?  Chcete investovat do rozvoje lidí a to profitabilně?  Chcete vědět o
-  koho z týmu se můžete opravdu opřít v „těžkých časech“?  Chcete efektivně
-  sestavit funkční týmy?  Chcete sami vědět na co se hodíte Vy anebo Vaši
-  blízcí?
+  Společnost TAKT – poradenství a konzultace, a.s. je specializovaná firma
+  zabývající se personálním poradenstvím, analýzami firemního potenciálu,
+  marketingovými průzkumy, socio-psychologickými výcviky a tréninky, firemními
+  kulturami, motivačními nebo hodnotícími systémy a komunikačními strategiemi.
+  Na trhu působíme od roku 1990 a za tu dobu jsme nabírali data od více než 30
+  000 testovaných osob. Tak velký vzorek zpřesňuje výsledky našich analýz
+  založených na unikátním know-how a baterii modifikovaných psychologických
+  testů, pomocí kterých auditujeme řídící procesy v činnosti korporací,
+  institucí či politických stran. 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,12 +49,14 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: S čím Vám pomůžeme?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Chcete vědět, jací jsou Vaši lidé, jak s nimi pracovat a jací potom mohou
+    být? Chcete porovnat potenciál Vašich lidí s trhem? Chcete vědět koho
+    povýšit? Chcete investovat do rozvoje lidí a to profitabilně? Chcete vědět o
+    koho z týmu se můžete opravdu opřít v „těžkých časech“? Chcete efektivně
+    sestavit funkční týmy? Chcete sami vědět na co se hodíte Vy anebo Vaši
+    blízcí?
 main:
   heading: Great coffee with no compromises
   description: >
