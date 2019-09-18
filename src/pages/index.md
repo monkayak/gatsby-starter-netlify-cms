@@ -8,7 +8,6 @@ mainpitch:
   title: Proč zvolit TAKT?
   description: |
     - Komplexní psychodiagnostika a rozvoj lidí
-<<<<<<< HEAD
 
 
     - Statisticky průkazné porovnání s databází 23 tisíc lidí
@@ -17,10 +16,6 @@ mainpitch:
     - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti
     
     
-=======
-    - Statisticky průkazné porovnání s databází 30 000 lidí
-    - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti 
->>>>>>> 143bd6ed96c7dcfff57cff421d915640e2a857e2
 description: >-
   Společnost TAKT – poradenství a konzultace, a.s. je specializovaná firma
   zabývající se personálním poradenstvím, analýzami firemního potenciálu,
