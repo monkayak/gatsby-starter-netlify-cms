@@ -2,12 +2,13 @@
 templateKey: index-page
 title: Takt
 image: /img/red.jpg
-heading: Taktně a opravdově o lidech
+heading: TAKTně a opravdově o lidech
 subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
   title: Proč zvolit TAKT?
   description: |
     - Komplexní psychodiagnostika a rozvoj lidí
+<<<<<<< HEAD
 
 
     - Statisticky průkazné porovnání s databází 23 tisíc lidí
@@ -16,48 +17,172 @@ mainpitch:
     - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti
     
     
+=======
+    - Statisticky průkazné porovnání s databází 30 000 lidí
+    - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti 
+>>>>>>> 143bd6ed96c7dcfff57cff421d915640e2a857e2
 description: >-
-  Chcete vědět, jací jsou Vaši lidé, jak s nimi pracovat a jací potom mohou
-  být?  Chcete porovnat potenciál Vašich lidí s trhem?  Chcete vědět koho
-  povýšit?  Chcete investovat do rozvoje lidí a to profitabilně?  Chcete vědět o
-  koho z týmu se můžete opravdu opřít v „těžkých časech“?  Chcete efektivně
-  sestavit funkční týmy?  Chcete sami vědět na co se hodíte Vy anebo Vaši
-  blízcí?
+  Společnost TAKT – poradenství a konzultace, a.s. je specializovaná firma
+  zabývající se personálním poradenstvím, analýzami firemního potenciálu,
+  marketingovými průzkumy, socio-psychologickými výcviky a tréninky, firemními
+  kulturami, motivačními nebo hodnotícími systémy a komunikačními strategiemi.
+  Na trhu působíme od roku 1990 a za tu dobu jsme nabírali data od více než 30
+  000 testovaných osob. Tak velký vzorek zpřesňuje výsledky našich analýz
+  založených na unikátním know-how a baterii modifikovaných psychologických
+  testů, pomocí kterých auditujeme řídící procesy v činnosti korporací,
+  institucí či politických stran. 
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/positive.png
+      text: |+
+
+        Mám kandidáta
+
+            Je to ten pravý?
+            Jaké má mentální dispozice?
+            Kolik má energie na realizaci úkolů?
+            Kam vkládá svou energii?
+            Jaké jsou jeho silné stránky?
+            Jaké jsou jeho slabé stránky?
+            Zapadne do teamu?
+            Jak s ním pracovat, aby se zvyšovala jeho výkonnost?
+            Co ho motivuje a demotivuje?
+
+        Hledám práci
+
+            K jaké práci mám dispozice?
+            Do jaké míry je v současnosti využívám?
+            Co mám udělat proto, abych je uměl využít naplno?
+            Jaká by měla být firma, abych se do ní hodil?
+            Jaké jsou moje silné stránky a jak na nich stavět?
+            Jaké jsou moje slabé stránky a jak na nich pracovat?
+            Jak jsem na tom v porovnání s ostatními?
+
+
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |+
+
+        Na kom mohu stavět?
+
+            Jaké má mentální dispozice?
+            Kolik má energie na realizaci úkolů?
+            Kam vkládá svou energii?
+            Jaká jsou jeho silné stránky?
+            Jaké jsou jeho slabé stránky?
+            Je spokojený?
+            Kdo táhne organizaci nahoru a kdo dolů?
+            Jak je na tom v porovnání s jinými zaměstnanci na trhu?
+
+        Jak s ním mám pracovat?
+
+            Jak zvyšovat jeho efektivitu?
+            Co ho motivuje a demotivuje?
+            S kým si „sedne“ a s kým ne?
+            Potřebuje volnost anebo pevnější vedení a kontrolu?
+            Jak ho mám coachovat?
+
+
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: |2+
+
+
+            Potřebujete pomoci s rozhodnutím jakou školu vybrat?
+            Je dítě vyzrálé na studium 8.letého gymnázia?
+            Nebo ho nechat déle na základní škole?
+            Jakou střední (vysokou) školu vybrat?
+
+            Jak dítě motivovat?
+            Co ho opravdu baví a naplňuje?
+            Co ho trápí?
+            V čem mu je potřeba pomoci a v čem ho naopak nechat být?
+
+
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+      text: |+
+
+        Jak složit team?
+
+            Kteří pracovníci mají dispozice vytvořit spolu efektivní team?
+            Jaké konkrétní dispozice kdo má?
+            Do jaké míry je využívá a proč?
+            Kdo má předpoklady (a jaké) k zastávání konkrétních teamových rolí?
+
+        Jak s ním pracovat?
+
+            Jak zvyšovat efektivitu teamu?
+            Jak zvyšovat využití teamových dispozic?
+            Jak pracovat s jednotlivými teamovými rolemi?
+            Jak zjistit, zda to dělám dobře?
+
+        Potřebujete restartovat spolupráci mezi 2 a více teamy?
+
+            Proč to nefunguje?
+            Jaké konkrétní kroky je třeba udělat, aby to fungovalo?
+            Jak ty kroky realizovat?
+
+            Hledáte někoho, kdo Vám s tím pomůže?
+            Obraťte se na nás
+
+
+    - image: /img/coffee.png
+      text: |+
+        Srovnáme kvalitu Vašich lidí s trhem (databází 23 tis. lidí) podle:
+
+            Konkrétní pozice
+            Odvětví
+            Velikosti firmy
+
+            Charakteru firmy (nadnárodní či lokální firma)
+            Věku
+            Územního členění
+
+    - image: /img/coffee.png
+      text: |+
+        Chci vědět
+
+            Jak ji komunikovat?
+            Kdo ji přijme?
+            Kdo ji bude odmítat?
+
+            Kdo je neformální názorový vůdce?
+            Jak ji realizovat?
+
+    - image: /img/coffee-gear.png
+      text: |
+        Profesionálně a na míru provedená assessment centra
+
+            Realizujeme je s pomocí našich zkušených psychologů
+            Pro zvýšení reálnosti výsledků, můžeme zapojit i naši unikátní metodologii testování
+            Vše šijeme na míru konkrétním potřebám a otázkám klienta
+    - image: /img/coffee-gear.png
+      text: |+
+        Klasika trochu jinak
+
+            Obvyklou dotazníkovou metodu doplňujeme pohledem a analýzou psychologa při osobním pohovoru s každým respondentem
+            Zpětná vazba respondentovi a managementu potom více odráží realitu
+
+            Nemapujeme pouze současný stav
+            Dáme Vám konkrétní doporučení, jak zvýšit výkonnost jedinců i teamů
+
+    - image: /img/apple-touch-icon.png
+      text: |2+
+
+
+            Marketingové průzkumy
+            Teambuilding jinak – s dlouhodobým efektem
+            Recruitment na klíč – od inzerátu, až po vhodného uchazeče, který úspěšně prošel psychodiagnostikou
+
+            Hodnocení zaměstnanců
+            Odborné přednášky
+
+  heading: S čím Vám pomůžeme?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Chcete vědět, jací jsou Vaši lidé, jak s nimi pracovat a jací potom mohou
+    být? Chcete porovnat potenciál Vašich lidí s trhem? Chcete vědět koho
+    povýšit? Chcete investovat do rozvoje lidí a to profitabilně? Chcete vědět o
+    koho z týmu se můžete opravdu opřít v „těžkých časech“? Chcete efektivně
+    sestavit funkční týmy? Chcete sami vědět na co se hodíte Vy anebo Vaši
+    blízcí?
 main:
   heading: Great coffee with no compromises
   description: >
