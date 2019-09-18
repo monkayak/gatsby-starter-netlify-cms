@@ -7,12 +7,11 @@ subheading: 'Takt - poradenství a konzultace, a.s.'
 mainpitch:
   title: Proč zvolit TAKT?
   description: |
-   > - Komplexní psychodiagnostika a rozvoj lidí 
-    
-  
-   > - Statisticky průkazné porovnání s databází 23 tisíc lidí
-  
-   |+ - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti
+   - Komplexní psychodiagnostika a rozvoj lidí
+   |
+   - Statisticky průkazné porovnání s databází 23 tisíc lidí
+   |
+   - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti
     
     
 description: >-
