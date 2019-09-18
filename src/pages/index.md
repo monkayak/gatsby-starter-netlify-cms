@@ -8,11 +8,9 @@ mainpitch:
   title: Proč zvolit TAKT?
   description: |
     - Komplexní psychodiagnostika a rozvoj lidí
-
-
+  >
     - Statisticky průkazné porovnání s databází 23 tisíc lidí
-
-  
+  >
     - Zvýšení výkonnosti jednotlivců, týmů, a celé společnosti
     
     
